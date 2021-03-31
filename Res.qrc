@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>LaserGun3.mp3</file>
+        <file>Lofi.mp3</file>
+        <file>Death.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Bullet.png</file>
+        <file>Alien.png</file>
+        <file>ship.png</file>
+        <file>laser.png</file>
+        <file>Space1.jpg</file>
+        <file>Alien2.png</file>
+        <file>Space.jpg</file>
+        <file>Zelda-Health.png</file>
+        <file>Zelda-Health2.png</file>
+        <file>Zelda-Health3.png</file>
+    </qresource>
+</RCC>
